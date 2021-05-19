@@ -12,8 +12,8 @@ cask "supercollider" do
   end
 
   name "SuperCollider"
+  desc "Installation supporting BigSur"
   homepage "https://supercollider.github.io/"
-  desc "SuperCollider installation supporting BigSur"
 
   livecheck do
     url :url
