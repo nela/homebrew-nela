@@ -9,7 +9,7 @@ cask "supercollider" do
     sha256 "0c6cd9c26adfece4eccd2c76156119338603001bbd1999b037a05b154a2adb0c"
     url "https://github.com/supercollider/supercollider/releases/download/Version-#{version}/SuperCollider-#{version}-macOS-signed.zip",
       verified: "github.com/supercollider/supercollider/"
-    end
+  end
 
   name "SuperCollider"
   homepage "https://supercollider.github.io/"
